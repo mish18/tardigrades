@@ -1,0 +1,17 @@
+[debug] [2018-02-21T13:47:31.948Z] ----------------------------------------------------------------------
+[debug] [2018-02-21T13:47:31.952Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-02-21T13:47:31.953Z] CLI Version:   3.17.4
+[debug] [2018-02-21T13:47:31.953Z] Platform:      win32
+[debug] [2018-02-21T13:47:31.953Z] Node Version:  v8.9.4
+[debug] [2018-02-21T13:47:31.954Z] Time:          Wed Feb 21 2018 15:47:31 GMT+0200 (South Africa Standard Time)
+[debug] [2018-02-21T13:47:31.954Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-21T13:47:31.973Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-21T13:47:31.973Z] > authorizing via signed-in user
+[debug] [2018-02-21T13:47:31.977Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tardigrades-6ad0e  
+  
+ Wed Feb 21 2018 15:47:31 GMT+0200 (South Africa Standard Time)
+[debug] [2018-02-21T13:47:33.491Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-21T13:47:33.494Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tardigrades-6ad0e/tokens  
+  
+ Wed Feb 21 2018 15:47:33 GMT+0200 (South Africa Standard Time)

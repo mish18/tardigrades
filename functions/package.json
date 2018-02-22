@@ -1,0 +1,18 @@
+{
+  "name": "tardigrades-6ad0e",
+  "description": "Make day project",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.5.x",
+    "firebase-admin": "~5.8.1",
+    "firebase-functions": "^0.8.1",
+    "request": "*"
+  },
+  "private": true
+}
